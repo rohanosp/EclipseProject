@@ -21,4 +21,17 @@ public class social {
 	System.out.println("Instagram");
 
 	}
+	@Test
+	public void Watsapp() 
+	{
+	System.out.println("Watsapp");
+
+	}
+	@Test
+	public void Google() 
+	{
+	System.out.println("Google");
+
+	}
+	
 }
