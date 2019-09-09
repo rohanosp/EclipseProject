@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2019-09-09T10:22:43Z" finished-at="2019-09-09T10:22:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46" started-at="2019-09-09T10:22:43Z" finished-at="2019-09-09T10:22:44Z">
+      <class name="ProfesionalMedia.profesional">
+        <test-method status="PASS" signature="Glassdoor()[pri:0, instance:ProfesionalMedia.profesional@1a8a8f7c]" name="Glassdoor" duration-ms="1" started-at="2019-09-09T10:22:43Z" finished-at="2019-09-09T10:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Glassdoor -->
+        <test-method status="PASS" signature="Insight()[pri:0, instance:ProfesionalMedia.profesional@1a8a8f7c]" name="Insight" duration-ms="1" started-at="2019-09-09T10:22:43Z" finished-at="2019-09-09T10:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Insight -->
+        <test-method status="PASS" signature="Linkedin()[pri:0, instance:ProfesionalMedia.profesional@1a8a8f7c]" name="Linkedin" duration-ms="1" started-at="2019-09-09T10:22:44Z" finished-at="2019-09-09T10:22:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Linkedin -->
+      </class> <!-- ProfesionalMedia.profesional -->
+      <class name="SocialMedia.social">
+        <test-method status="PASS" signature="FaceBook()[pri:0, instance:SocialMedia.social@7a187f14]" name="FaceBook" duration-ms="8" started-at="2019-09-09T10:22:43Z" finished-at="2019-09-09T10:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FaceBook -->
+        <test-method status="PASS" signature="Instagram()[pri:0, instance:SocialMedia.social@7a187f14]" name="Instagram" duration-ms="1" started-at="2019-09-09T10:22:43Z" finished-at="2019-09-09T10:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Instagram -->
+        <test-method status="PASS" signature="Twitter()[pri:0, instance:SocialMedia.social@7a187f14]" name="Twitter" duration-ms="1" started-at="2019-09-09T10:22:43Z" finished-at="2019-09-09T10:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Twitter -->
+      </class> <!-- SocialMedia.social -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
